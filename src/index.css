@@ -14,6 +14,7 @@ body {
   border-width: 28px 103px 28px 74px;
   border-style: solid;
   position: relative;
+  background-color: #fff;
 }
 
 #root:before {
@@ -37,4 +38,10 @@ body {
   right: -79px;
   top: 50%;
   border: 1px inset #7b7b7b;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
